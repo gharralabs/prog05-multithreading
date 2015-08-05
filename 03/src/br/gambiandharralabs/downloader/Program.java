@@ -1,4 +1,4 @@
-package br.gambiandharralabs.com.br;  
+package br.gambiandharralabs.downloader;  
 
 import java.io.FileOutputStream;
 import java.io.IOException;
